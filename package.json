@@ -1,0 +1,20 @@
+{
+  "name": "simple-website",
+  "version": "1.0.0",
+  "description": "Simple node website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VihoSerge/node-simple-website.git"
+  },
+  "author": "VihoSerge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VihoSerge/node-simple-website/issues"
+  },
+  "homepage": "https://github.com/VihoSerge/node-simple-website#readme"
+}
